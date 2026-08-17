@@ -1,10 +1,10 @@
 # Olist-E-Commerce-Analysis
 ​**Olist E-Commerce Data Analysis (Power BI Dashboard)**
 
-​📌 Project Overview
+# 1. Project Overview
 ​An end-to-end business intelligence solution built using Power BI to analyze the Brazilian e-commerce dataset (Olist). This dashboard delivers deep insights into customer behavior, order statuses, regional sales distributions, delivery performance, and overall revenue trends.
 
-​📊 # Dashboard Preview & Pages
+​📊# Dashboard Preview & Pages
 ​**Executive Summary & KPIs** – Highlights core business metrics like Total Revenue, Total Orders, Total Customers, Total Products, and Customer Review distributions. 
 ​**Regional & Operational Insights** – Features geographical distribution by states/cities, order status tracking across weekdays, and comparative metrics like average price vs. payment values.
 
